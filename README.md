@@ -264,10 +264,6 @@ pytest tests/
 black drugai_gnn_app.py
 ```
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **RDKit**: Chemical informatics and machine learning
